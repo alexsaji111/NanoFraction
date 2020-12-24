@@ -45,6 +45,10 @@ code,pre{
     color: #fff;
     padding: 10px;
 }
+.hidden{
+    visibility: hidden;
+    height: 0;
+}
 
 /*navbar styling*/
 
